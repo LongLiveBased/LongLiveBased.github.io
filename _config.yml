@@ -1,0 +1,15 @@
+name: Jazz
+description: "Young Jazz out the 432"
+url: ""
+twitter_username: 432jazz
+instagram_username:  432jazz
+soundcloud_username:  432jazz
+email: everythingprofit@yahoo.com
+avatar: yes
+avatar_img_path: "imgs/avatar.jpg"
+front_img: yes
+front_img_path: "imgs/background.jpg"
+favicon_img: no
+favicon_img_path: "imgs/favicon.ico"
+markdown: kramdown
+permalink: pretty
